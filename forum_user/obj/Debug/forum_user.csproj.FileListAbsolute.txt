@@ -1,0 +1,15 @@
+C:\Users\Setup\source\repos\forum_user\forum_user\bin\Debug\forum_user.exe.config
+C:\Users\Setup\source\repos\forum_user\forum_user\bin\Debug\forum_user.exe
+C:\Users\Setup\source\repos\forum_user\forum_user\bin\Debug\forum_user.pdb
+C:\Users\Setup\source\repos\forum_user\forum_user\obj\Debug\forum_user.csprojAssemblyReference.cache
+C:\Users\Setup\source\repos\forum_user\forum_user\obj\Debug\MainWindow.g.cs
+C:\Users\Setup\source\repos\forum_user\forum_user\obj\Debug\App.g.cs
+C:\Users\Setup\source\repos\forum_user\forum_user\obj\Debug\forum_user_MarkupCompile.cache
+C:\Users\Setup\source\repos\forum_user\forum_user\obj\Debug\forum_user_MarkupCompile.lref
+C:\Users\Setup\source\repos\forum_user\forum_user\obj\Debug\MainWindow.baml
+C:\Users\Setup\source\repos\forum_user\forum_user\obj\Debug\forum_user.g.resources
+C:\Users\Setup\source\repos\forum_user\forum_user\obj\Debug\forum_user.Properties.Resources.resources
+C:\Users\Setup\source\repos\forum_user\forum_user\obj\Debug\forum_user.csproj.GenerateResource.cache
+C:\Users\Setup\source\repos\forum_user\forum_user\obj\Debug\forum_user.csproj.CoreCompileInputs.cache
+C:\Users\Setup\source\repos\forum_user\forum_user\obj\Debug\forum_user.exe
+C:\Users\Setup\source\repos\forum_user\forum_user\obj\Debug\forum_user.pdb
